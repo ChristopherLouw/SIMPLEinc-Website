@@ -388,6 +388,8 @@ section#portfolio h1 {
 	font-size: 3em;
 	margin-bottom: 1em;
 	margin-top: 0.5em;
+    color:#021e2f;
+    
 }
 section#portfolio hgroup h2 {
 	margin-top: 1em;
@@ -405,6 +407,13 @@ section#portfolio .align {
 	margin-top:10px;
 	font-size:6em;
 }
+
+i.icon-desktop-circled {
+    display:block;
+    text-align: center;
+}
+
+i.blue {color:#021e2f}
 /* Portfolio Image Hover */
 .mask2 img {
 	margin: 0 auto;
@@ -503,6 +512,54 @@ blockquote.mega .cite {
 	text-align: left;
 	font-weight:300;
 }
+/* Find */
+section#find {
+	background: url("../img/grey-cardboard-bg.png") repeat 0 0;
+}
+section#find .align {
+	font-size: 6em;
+	text-align: center;
+}
+article.post {
+	background: none repeat scroll 0 0 rgba(255, 255, 255, 0.7);
+	border-bottom-left-radius: 6px;
+	border-bottom-right-radius: 6px;
+	box-shadow: 0 1px 6px rgba(0, 0, 0, 0.1);
+	-moz-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.1);
+	-webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.1);
+}
+article .inside {
+	margin: 18px 24px 24px;
+	padding-top: 1em;
+	background: url("../img/dot-row-2.png") repeat-x scroll 0 0 transparent !important;
+}
+.TableCell {
+display:table-cell;
+padding-left: 10px;
+}
+
+.post-date {
+	color: #A5A5A2;
+	float: right;
+	font-family: 'Open Sans';
+	font-size: 14px;
+	font-style: normal;
+	line-height: 2;
+	margin-right: 5px;
+}
+#find h1 {
+	font-size: 3em;
+	margin-bottom: 1em;
+	margin-top: 0.5em;
+    color:#021e2f;
+}
+#find h2 {
+	font-size: 21px;
+	margin-top: 24px;
+	margin-bottom: 16px;
+	color:black;
+	clear: right;
+}
 /* News */
 section#news {
 	background: url("../img/grey-cardboard-bg.png") repeat 0 0;
@@ -537,6 +594,7 @@ article .inside {
 	font-size: 3em;
 	margin-bottom: 1em;
 	margin-top: 0.5em;
+    color:#021e2f;
 }
 #news h2 {
 	font-size: 21px;
@@ -646,8 +704,8 @@ section#team .align, section#contact .align {
 }
 #theme-form input[type=submit]:hover, #theme-form input[type=submit]:active {
 	background: #021e2f !important;
-    color:#defa03;
-    box-shadow: 1px 1px 6px #C1BAC1;
+	color:#defa03;
+	box-shadow: 1px 1px 6px #C1BAC1;
 }
 #theme-form textarea {
 	padding-top: 1em;

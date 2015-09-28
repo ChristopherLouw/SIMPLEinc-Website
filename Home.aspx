@@ -1,4 +1,7 @@
-﻿<!DOCTYPE html>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Home.aspx.cs" Inherits="Home" %>
+
+<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -240,57 +243,88 @@
         </div>
         <!-- /.container -->
     </section>
-    <!--******************** News Section ********************-->
-    <section id="news" class="single-page scrollblock">
-          <div class="container">
-              <div class="align"><i class="icon-pencil-circled"></i></div>
-              <h1>Our Blog</h1>
-              <!-- Three columns -->
-    <div class="row">
-        <article class="span4 post">
-            <img class="img-news" src="img/blog_img-01.jpg" alt="">
-            <div class="inside">
-                <p class="post-date"><i class="icon-calendar"></i> March 17, 2013</p>
-                <h2>A girl running on a road</h2>
-                <div class="entry-content">
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. &hellip;</p>
-                    <a href="#" class="more-link">read more</a>
-                </div>
+    <!--******************** Find Us Section ********************-->
+    <section id="find" class="single-page scrollblock">
+        <div class="container">
+            <div class="align"><i class="icon-pencil-circled blue"></i></div>
+            <h1>Find Us</h1>
+            <!-- Three columns -->
+            <div class="row">
+                <article class="span4 post">
+                    <img class="img-news" src="img/Telephone.jpg" alt="">
+                    <div class="inside">
+                        <h2>Telecommunication</h2>
+                        <div class="entry-content">
+                            <div style="display:table-row">
+                                <div style="display:table-cell">
+                                    <p>Switchboard:</p>
+                                    <p>Cellular:</p>
+                                    <p>Fax:</p>
+                                    <p>Email:</p>
+                                </div>
+                                <div class="TableCell">
+                                    <p>(011) 609 7946</p>
+                                    <p>(083) 556 2570</p>
+                                    <p>(011) 452 22 33</p>
+                                    <p>info@simpleinc.co.za</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.inside -->
+                </article>
+                <!-- /.span4 -->
+                <article class="span4 post">
+                    <img class="img-news" src="img/Clock.jpg" alt="">
+                    <div class="inside">
+                        <h2>Operating Hours</h2>
+                        <div>
+                            <div style="display:table-row">
+                                <div style="display:table-cell">
+                                    <p>Monday to Thursday:</p>
+                                    <p>Friday:</p>
+                                    <p>Saturday</p>
+                                    <p>Sunday:</p>
+                                </div>
+                                <div class="TableCell">
+                                    <p>8:00am – 17:00pm</p>
+                                    <p>8:00am – 15:00pm</p>
+                                    <p>Closed</p>
+                                    <p>Closed</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.inside -->
+                </article>
+                <!-- /.span4 -->
+                <article class="span4 post">
+                    <img class="img-news" src="https://maps.googleapis.com/maps/api/staticmap?center=-26.125018,28.169981&zoom=14&size=400x300&markers=color:orange%7Clabel:RB|71TerraceRoad,Edenvale" alt="">
+
+
+                    <div class="inside">
+                        <h2>Geographical location</h2>
+                        <div class="entry-content">
+                            <div style="display:table-row">
+                                <div style="display:table-cell">
+                                    <p>Address:</p>
+                                </div>
+                                <div class="TableCell">
+                                    <p>71 Terrace Road</p>
+                                    <p>Edenvale</p>
+                                    <p>Edenglen</p>
+                                    <p>1609</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.inside -->
+                </article>
+                <!-- /.span4 -->
             </div>
-            <!-- /.inside -->
-        </article>
-        <!-- /.span4 -->
-        <article class="span4 post">
-            <img class="img-news" src="img/blog_img-02.jpg" alt="">
-            <div class="inside">
-                <p class="post-date">February 28, 2013</p>
-                <h2>A bear sleeping on a tree</h2>
-                <div class="entry-content">
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. &hellip;</p>
-                    <a href="#" class="more-link">read more</a>
-                </div>
-            </div>
-            <!-- /.inside -->
-        </article>
-        <!-- /.span4 -->
-        <article class="span4 post">
-            <img class="img-news" src="img/blog_img-03.jpg" alt="">
-            <div class="inside">
-                <p class="post-date">February 06, 2013</p>
-                <h2>A Panda playing with his baby</h2>
-                <div class="entry-content">
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. &hellip;</p>
-                    <a href="#" class="more-link">read more</a>
-                </div>
-            </div>
-            <!-- /.inside -->
-        </article>
-        <!-- /.span4 -->
-    </div>
-    <!-- /.row -->
-    <a href="#" class="btn btn-large">Go to our blog</a>
-    </div>
-    <!-- /.container -->
+            <!-- /.row -->
+        </div>
+        <!-- /.container -->
     </section>    
 
     <!--******************** Team Section ********************-->
@@ -351,47 +385,47 @@
         <!-- /.container -->
     </section>
     <!--******************** Contact Section ********************-->
-    <section id="contact" class="single-page scrollblock">
+<section id="contact" class="single-page scrollblock">
         <div class="container">
             <div class="align"><i class="icon-mail-2"></i></div>
             <h1>Contact us now!</h1>
             <div class="row">
                 <div class="span12">
                     <div class="cform" id="theme-form">
-                        <form action="#" method="post" class="cform-form">
+                        <form runat="server" class="cform-form">
                             <div class="row">
                                 <div class="span6">
-                                    <span class="your-name">
-                                        <input type="text" name="your-name" placeholder="Your Name" class="cform-text" size="40" title="your name">
+                                    <span class="your-name">                                                               
+                                        <asp:TextBox ID="txtName" runat="server" placeholder="Your Name" class="cform-text" size="40" title="your name" />
                                     </span>
                                 </div>
                                 <div class="span6">
                                     <span class="your-email">
-                                        <input type="text" name="your-email" placeholder="Your Email" class="cform-text" size="40" title="your email">
+                                        <asp:TextBox runat="server" ID="txtEmail" placeholder="Your Email" class="cform-text" size="40" title="your email" />
                                     </span>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="span6">
                                     <span class="company">
-                                        <input type="text" name="company" placeholder="Your Company" class="cform-text" size="40" title="company">
+                                        <asp:TextBox runat="server" ID="txtCompany"  placeholder="Your Company" class="cform-text" size="40" title="company"/>
                                     </span>
                                 </div>
                                 <div class="span6">
                                     <span class="website">
-                                        <input type="text" name="website" placeholder="Your Website" class="cform-text" size="40" title="website">
+                                        <asp:TextBox runat="server" ID="txtWebsite"  placeholder="Your Website" class="cform-text" size="40" title="website"/>
                                     </span>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="span12">
                                     <span class="message">
-                                        <textarea name="message" class="cform-textarea" cols="40" rows="10" title="drop us a line."></textarea>
+                                        <asp:TextBox runat="server" ID="txtMessage" placeholder="Message" TextMode="MultiLine" class="cform-textarea" Columns="40" Rows="10" title="drop us a line."></asp:TextBox>
                                     </span>
                                 </div>
                             </div>
                             <div>
-                                <input type="submit" value="Send message" class="cform-submit pull-left">
+                                <asp:Button ID="submit" runat="server" type="submit" OnClick="Submit_Click" Text="Send Message" class="cform-submit pull-left"/>
                             </div>
                             <div class="cform-response-output"></div>
                         </form>
