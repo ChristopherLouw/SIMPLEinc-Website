@@ -560,94 +560,52 @@ padding-left: 10px;
 	color:black;
 	clear: right;
 }
-/* News */
-section#news {
-	background: url("../img/grey-cardboard-bg.png") repeat 0 0;
-}
-section#news .align {
-	font-size: 6em;
-	text-align: center;
-}
-article.post {
-	background: none repeat scroll 0 0 rgba(255, 255, 255, 0.7);
-	border-bottom-left-radius: 6px;
-	border-bottom-right-radius: 6px;
-	box-shadow: 0 1px 6px rgba(0, 0, 0, 0.1);
-	-moz-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.1);
-	-webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.1);
-}
-article .inside {
-	margin: 18px 24px 24px;
-	padding-top: 1em;
-	background: url("../img/dot-row-2.png") repeat-x scroll 0 0 transparent !important;
-}
-.post-date {
-	color: #A5A5A2;
-	float: right;
-	font-family: 'Open Sans';
-	font-size: 14px;
-	font-style: normal;
-	line-height: 2;
-	margin-right: 5px;
-}
-#news h1 {
-	font-size: 3em;
-	margin-bottom: 1em;
-	margin-top: 0.5em;
-    color:#021e2f;
-}
-#news h2 {
-	font-size: 21px;
-	margin-top: 24px;
-	margin-bottom: 16px;
-	color: #312A1E;
-	clear: right;
-}
-/* Team and Contact */
 
-section#team, section#contact {
+/* Technology and Contact */
+
+section#technology, section#contact {
 	color: #e4e5e2;
 	background:#021e2f;
 }
-section#team .align, section#contact .align {
+section#technology .align, section#contact .align {
 	font-size: 6em;
 	text-align: center;
 }
-#team h1, #contact h1 {
+#technology h1, #contact h1 {
 	font-size: 3em;
 	margin-bottom: 1em;
 	margin-top: 0.5em;
 }
-#contact, #team {
+#contact, #technology {
 	padding-top: 4.75em;
 }
-#team {
+#technology {
 	padding-bottom: 0;
 }
 #contact {
 	padding-bottom: 0;
 }
-/* team */
+/* technology */
 
-#team h3 {
+#technology h3 {
 	font-size: 26px;
 	margin-top: 24px;
 	margin-bottom: 0px;
 }
-#team h3, .job-position {
+#technology h3, .job-position {
 	text-align: center;
 }
-#team .featurette {
+#technology .featurette {
 	text-align: center;
 	font-size: 21px;
 }
-#team h2.featurette-heading {
+#technology h2.featurette-heading {
 	margin-bottom: 24px;
 }
-.teamalign {
+.technologyalign {
 	text-align:center
 }
-.team-thumb {
+.technology-thumb {
 	margin-top: 26px;
 	text-align:center;
 }
@@ -734,6 +692,30 @@ div.cform-response-output {
 	-moz-border-radius: 4px;
 	-webkit-border-radius: 4px;
 }
+
+/* About */
+
+section#about .align {
+	font-size: 6em;
+	text-align: center;
+}
+
+#about h1 {
+	font-size: 3em;
+	margin-bottom: 1em;
+	margin-top: 0.5em;
+    color:#021e2f;
+}
+
+#about .featurette {
+	text-align: center;
+	font-size: 21px;
+}
+#about h2.featurette-heading {
+	margin-bottom: 24px;
+}
+
+
 /* Featurettes */
 
 

@@ -67,8 +67,8 @@
                         <ul id="menu-main" class="nav">
                             <li><a title="portfolio" href="#portfolio">Portfolio</a></li>
                             <li><a title="services" href="#services">Services</a></li>
-                            <li><a title="news" href="#news">News</a></li>
-                            <li><a title="team" href="#team">Team</a></li>
+                            <li><a title="find" href="#find">Find Us</a></li>
+                            <li><a title="technology" href="#technology">Technology</a></li>
                             <li><a title="contact" href="#contact">Contact</a></li>
                         </ul>
                     </nav>
@@ -120,7 +120,7 @@
                             <h2>Manufacturing</h2>
                         </hgroup>
                         <div class="entry-content">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                            <p></p>
                             <!--<a class="more-link" href="#">view project</a>-->
                         </div>
                     </div>
@@ -134,7 +134,7 @@
                             <h2>Mining</h2>
                         </hgroup>
                         <div class="entry-content">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                            <p></p>
                             <!--<a class="more-link" href="#">view project</a>-->
                         </div>
                     </div>
@@ -148,7 +148,7 @@
                             <h2>Retail</h2>
                         </hgroup>
                         <div class="entry-content">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                            <p></p>
                             <!--<a class="more-link" href="#">view project</a>-->
                         </div>
                     </div>
@@ -166,7 +166,7 @@
                             <h2>Finance</h2>
                         </hgroup>
                         <div class="entry-content">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                            <p></p>
                             <!--<a class="more-link" href="#">view project</a>-->
                         </div>
                     </div>
@@ -180,7 +180,7 @@
                             <h2>Engineering</h2>
                         </hgroup>
                         <div class="entry-content">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                            <p></p>
                             <!--<a class="more-link" href="#">view project</a>-->
                         </div>
                     </div>
@@ -194,7 +194,7 @@
                             <h2>Logistics</h2>
                         </hgroup>
                         <div class="entry-content">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                            <p></p>
                             <!--<a class="more-link" href="#">view project</a>-->
                         </div>
                     </div>
@@ -233,7 +233,7 @@
                 </div>
                 <!-- /.span3 -->
                 <div class="span3">
-                    <div class="align"> <i class="icon-mobile-1 sev_icon"></i> </div>
+                    <div class="align"> <i class="icon-mobile sev_icon"></i> </div>
                     <h2>API</h2>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
                 </div>
@@ -251,7 +251,7 @@
             <!-- Three columns -->
             <div class="row">
                 <article class="span4 post">
-                    <img class="img-news" src="img/Telephone.jpg" alt="">
+                    <img class="img-find" src="img/Telephone.jpg" alt="">
                     <div class="inside">
                         <h2>Telecommunication</h2>
                         <div class="entry-content">
@@ -275,7 +275,7 @@
                 </article>
                 <!-- /.span4 -->
                 <article class="span4 post">
-                    <img class="img-news" src="img/Clock.jpg" alt="">
+                    <img class="img-find" src="img/Clock.jpg" alt="">
                     <div class="inside">
                         <h2>Operating Hours</h2>
                         <div>
@@ -299,7 +299,7 @@
                 </article>
                 <!-- /.span4 -->
                 <article class="span4 post">
-                    <img class="img-news" src="https://maps.googleapis.com/maps/api/staticmap?center=-26.125018,28.169981&zoom=14&size=400x300&markers=color:orange%7Clabel:RB|71TerraceRoad,Edenvale" alt="">
+                    <img class="img-find" src="https://maps.googleapis.com/maps/api/staticmap?center=-26.125018,28.169981&zoom=14&size=400x300&markers=color:orange%7Clabel:RB|71TerraceRoad,Edenvale" alt="">
 
 
                     <div class="inside">
@@ -327,41 +327,41 @@
         <!-- /.container -->
     </section>    
 
-    <!--******************** Team Section ********************-->
-    <section id="team" class="single-page scrollblock">
+    <!--******************** Technology Section ********************-->
+    <section id="technology" class="single-page scrollblock">
         <div class="container">
-            <div class="align"><i class="icon-group-circled"></i></div>
-            <h1>Meet the team</h1>
+            <div class="align"><i class="icon-chart-circled"></i></div>
+            <h1>Technology</h1>
             <!-- Five columns -->
             <div class="row">
                 <div class="span2 offset1">
-                    <div class="teamalign"> <img class="team-thumb img-circle" src="img/portrait-1.jpg" alt=""> </div>
-                    <h3>Andrew</h3>
-                    <div class="job-position">web designer</div>
+                    <div class="technologyalign"> <img class="technology-thumb img-circle" src="img/Technology/_Net.jpg" alt=""> </div>
+                    <h3>.NET</h3>
+                    <div class="job-position">Framework</div>
                 </div>
                 <!-- ./span2 -->
                 <div class="span2">
-                    <div class="teamalign"> <img class="team-thumb img-circle" src="img/portrait-2.jpg" alt=""> </div>
-                    <h3>Stephen</h3>
-                    <div class="job-position">web developer</div>
+                    <div class="technologyalign"> <img class="technology-thumb img-circle" src="img/Technology/VisualStudio2013.jpg" alt=""> </div>
+                    <h3>Visual Studio</h3>
+                    <div class="job-position">IDE</div>
                 </div>
                 <!-- ./span2 -->
                 <div class="span2">
-                    <div class="teamalign"> <img class="team-thumb img-circle" src="img/portrait-3.jpg" alt=""> </div>
-                    <h3>Maria</h3>
-                    <div class="job-position">graphic designer</div>
+                    <div class="technologyalign"> <img class="technology-thumb img-circle" src="img/Technology/Xaml.jpg" alt=""> </div>
+                    <h3>XAML</h3>
+                    <div class="job-position">Language</div>
                 </div>
                 <!-- ./span2 -->
                 <div class="span2">
-                    <div class="teamalign"> <img class="team-thumb img-circle" src="img/portrait-4.jpg" alt=""> </div>
-                    <h3>John</h3>
-                    <div class="job-position">project manager</div>
+                    <div class="technologyalign"> <img class="technology-thumb img-circle" src="img/Technology/Asp_Net.jpg" alt=""> </div>
+                    <h3>ASP.Net</h3>
+                    <div class="job-position">Framework</div>
                 </div>
                 <!-- ./span2 -->
                 <div class="span2">
-                    <div class="teamalign"> <img class="team-thumb img-circle" src="img/portrait-2.jpg" alt=""> </div>
-                    <h3>Ashton</h3>
-                    <div class="job-position">real owner</div>
+                    <div class="technologyalign"> <img class="technology-thumb img-circle" src="img/Technology/SQLServer.jpg" alt=""> </div>
+                    <h3>SQL Server</h3>
+                    <div class="job-position">Database Management</div>
                 </div>
                 <!-- ./span2 -->
             </div>
@@ -382,8 +382,68 @@
             </div>
             <!-- /.row -->
         </div>
+        <div class="container">
+            <div class="align"><i class="icon-group-circled"></i></div>
+            <h1>Languages</h1>
+            <!-- Five columns -->
+            <div class="row">
+                <div class="span2 offset1">
+                    <div class="technologyalign"> <img class="technology-thumb img-circle" src="img/Technology/Xaml.jpg" alt=""> </div>
+                    <h3>Xaml</h3>
+                    <div class="job-position">XML-Based</div>
+                </div>
+                <!-- ./span2 -->
+                <div class="span2">
+                    <div class="technologyalign"> <img class="technology-thumb img-circle" src="img/Technology/C_Sharp.jpg" alt=""> </div>
+                    <h3>C#</h3>
+                    <div class="job-position">Multi-Paradigm</div>
+                </div>
+                <!-- ./span2 -->
+                <div class="span2">
+                    <div class="technologyalign"> <img class="technology-thumb img-circle" src="img/Technology/HTML5.jpg" alt=""> </div>
+                    <h3>HTML</h3>
+                    <div class="job-position">Markup</div>
+                </div>
+                <!-- ./span2 -->
+                <div class="span2">
+                    <div class="technologyalign"> <img class="technology-thumb img-circle" src="img/Technology/Java.jpg" alt=""> </div>
+                    <h3>Java</h3>
+                    <div class="job-position">Write once, run anywhere</div>
+                </div>
+                <!-- ./span2 -->
+                <div class="span2">
+                    <div class="technologyalign"> <img class="technology-thumb img-circle" src="img/Technology/Css3.jpg" alt=""> </div>
+                    <h3>CSS</h3>
+                    <div class="job-position">Style Sheet</div>
+                </div>
+                <!-- ./span2 -->
+            </div>
+            <!-- /.row -->
+        </div>
         <!-- /.container -->
     </section>
+
+    <!--******************** About Us ********************-->
+    <section id="about" class="single-page scrollblock">
+        <div class="container">
+            <div class="align"><i class="icon-info-circled blue"></i></div>
+            <h1>SIMPLY us</h1>
+            <div class="row">
+                <div class="span10 offset1">
+                    <div class="featurette">
+                        <h2 class="featurette-heading">Want to know more? <span class="muted">| a little about us</span></h2>
+                        <p>Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores.</p>
+                        <p>At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma quande lingues coalesce, li grammatica del resultant lingue es plu simplic e regulari quam ti del coalescent lingues.</p>
+                        <p>A un Angleso it va semblar un simplificat Angles, quam un skeptic Cambridge amico dit me que Occidental es.</p>
+                    </div>
+                    <!-- /.featurette -->
+                    <hr class="featurette-divider">
+                </div>
+                <!-- .span10 -->
+            </div>
+        </div>
+        <!-- /.container -->
+    </section>    
     <!--******************** Contact Section ********************-->
 <section id="contact" class="single-page scrollblock">
         <div class="container">
