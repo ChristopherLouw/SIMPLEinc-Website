@@ -7,8 +7,17 @@
     <meta charset="utf-8">
     <title>SIMPLE inc.</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    
+    <!-- Google keywords and description-->
+	<meta name="google-site-verification" content="" />
+
+	<meta name="description" content="SIMPLE inc. is an innovative software development company specializing in providing dynamic solutions using best practices.">
+	<meta name="keywords" content="software, software development, pastel, integration, mes, wpf, wcf, website, application, solutions, manufacturing execution systems, mining and manufacturing, web development, E-commerce solutions, Database management, Desktop applications, integration into current systems, software design, tools suppliers, types of bolts, types of screws, Metals accounting, SAP Mii, weighbridge, material tracking, batch control, S95">
+
+	<!-- http://google.com/webmasters -->
+	<meta name="author" content="SIMPLE inc." />
+	<meta name="Copyright" content="SIMPLE inc. Copyright (c) 2015. All Rights Reserved." />
+
     <!-- Styles -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
@@ -51,7 +60,7 @@
     <div class="navbar-wrapper">
         <div class="navbar navbar-inverse navbar-fixed-top">
             <div class="navbar-inner">
-                <div class="container">
+                <div title="Click me for more on SIMPLY us." class="container">
                     <!-- Responsive Navbar Part 1: Button for triggering responsive navbar (not covered in tutorial). Include responsive CSS to utilize. -->
                     <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
                         <span class="icon-bar">
@@ -60,15 +69,15 @@
                         </span>
                     </a>
                     <h1 class="brand">
-                        <a href="#top">SIMPLE inc.</a>
+                        <a href="#about">SIMPLE inc.</a>
                     </h1>
                     <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
                     <nav class="pull-right nav-collapse collapse">
                         <ul id="menu-main" class="nav">
                             <li><a title="portfolio" href="#portfolio">Portfolio</a></li>
-                            <li><a title="services" href="#services">Services</a></li>
-                            <li><a title="find" href="#find">Find Us</a></li>
+                            <li><a title="services" href="#services">Services</a></li>                            
                             <li><a title="technology" href="#technology">Technology</a></li>
+                            <li><a title="find" href="#find">Find Us</a></li>
                             <li><a title="contact" href="#contact">Contact</a></li>
                         </ul>
                     </nav>
@@ -347,9 +356,9 @@
                 </div>
                 <!-- ./span2 -->
                 <div class="span2">
-                    <div class="technologyalign"> <img class="technology-thumb img-circle" src="img/Technology/Xaml.jpg" alt=""> </div>
-                    <h3>XAML</h3>
-                    <div class="job-position">Language</div>
+                    <div class="technologyalign"> <img class="technology-thumb img-circle" src="img/Technology/NuGet.jpg" alt=""> </div>
+                    <h3>NuGet</h3>
+                    <div class="job-position">Package Manager</div>
                 </div>
                 <!-- ./span2 -->
                 <div class="span2">
@@ -370,7 +379,7 @@
                 <div class="span10 offset1">
                     <hr class="featurette-divider">
                     <div class="featurette">
-                        <h2 class="featurette-heading">Want to know more? <span class="muted">| a little about us</span></h2>
+                        <h2 class="featurette-heading">What we know. <span class="muted">| how we do it</span></h2>
                         <p>Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores.</p>
                         <p>At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma quande lingues coalesce, li grammatica del resultant lingue es plu simplic e regulari quam ti del coalescent lingues.</p>
                         <p>A un Angleso it va semblar un simplificat Angles, quam un skeptic Cambridge amico dit me que Occidental es.</p>
@@ -432,9 +441,10 @@
                 <div class="span10 offset1">
                     <div class="featurette">
                         <h2 class="featurette-heading">Want to know more? <span class="muted">| a little about us</span></h2>
-                        <p>Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores.</p>
-                        <p>At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma quande lingues coalesce, li grammatica del resultant lingue es plu simplic e regulari quam ti del coalescent lingues.</p>
-                        <p>A un Angleso it va semblar un simplificat Angles, quam un skeptic Cambridge amico dit me que Occidental es.</p>
+                        <p>We at SIMPLE inc. believe that the definitive of success is to provide a SIMPLE working solution for your unique requirements. Our expertise in the development of software together with our business analytics will enable complete business transformation.</p>
+                        <p>We have close to ten years in multi-platform application development, specifically in manufacturing and retail environments. We endeavour to help you improve processes and procedures by applying best practices which will ensure all software developed is innovative and easily maintainable.</p>
+                        <p>Our business solutions allow for growth, profitability and business continuity.</p>
+                        <p>believe in the power of SIMPLE.</p>
                     </div>
                     <!-- /.featurette -->
                     <hr class="featurette-divider">
@@ -501,7 +511,7 @@
     <div class="footer-wrapper">
         <div class="container">
             <footer>
-                <small>&copy; 2015 SIMPLE inc. All rights reserved.</small>
+                <small>Copyright &copy; 2015 SIMPLE inc. All rights reserved.</small>
             </footer>
         </div>
         <!-- ./container -->
@@ -525,5 +535,4 @@
         })();
     </script>
 </body>
-
 </html>
