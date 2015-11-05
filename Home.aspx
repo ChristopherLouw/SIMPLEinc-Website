@@ -225,26 +225,26 @@
             <div class="row">
                 <div class="span3">
                     <div class="align"> <i class="icon-desktop sev_icon"></i> </div>
-                    <h2>Desktop</h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                    <h2>Custom</h2>
+                    <p>Custom integration delivers the bridge between the standard predefined guidelines of effective business management and company specific requirements. Implement out of the box business processes to achieve total business efficiency and continuity.</p>                    
                 </div>
                 <!-- /.span3 -->
                 <div class="span3">
                     <div class="align"> <i class="icon-vector sev_icon"></i> </div>
                     <h2>MES</h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                    <p>Manufacturing Execution systems are designed to manage and monitor real time activity on the factory floor thereby improving productivity and reducing cycle-time.</p>                    
                 </div>
                 <!-- /.span3 -->
                 <div class="span3">
                     <div class="align"> <i class="icon-basket sev_icon"></i> </div>
                     <h2>Ecommerce</h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                    <p>With fasteners as our main line we pride ourselves on our extensive range of mild steel, high tensile, stainless steel and brass. Items such as bolts, nuts, washers, cap screws, threaded rods, cup squares to name but a few are all stock items.</p>                   
                 </div>
                 <!-- /.span3 -->
                 <div class="span3">
                     <div class="align"> <i class="icon-mobile sev_icon"></i> </div>
                     <h2>API</h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                    <p>Extract the complexity and integrate the simplicity.</p>                    
                 </div>
                 <!-- /.span3 -->
             </div>
@@ -267,13 +267,13 @@
                             <div style="display:table-row">
                                 <div style="display:table-cell">
                                     <p>Switchboard:</p>
-                                    <p>Cellular:</p>
+                                    <p>Alternative:</p>
                                     <p>Fax:</p>
                                     <p>Email:</p>
                                 </div>
                                 <div class="TableCell">
                                     <p>(011) 609 7946</p>
-                                    <p>(083) 556 2570</p>
+                                    <p>(011) 452 9846</p>
                                     <p>(011) 452 22 33</p>
                                     <p>info@simpleinc.co.za</p>
                                 </div>
@@ -379,10 +379,9 @@
                 <div class="span10 offset1">
                     <hr class="featurette-divider">
                     <div class="featurette">
-                        <h2 class="featurette-heading">What we know. <span class="muted">| how we do it</span></h2>
-                        <p>Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores.</p>
-                        <p>At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma quande lingues coalesce, li grammatica del resultant lingue es plu simplic e regulari quam ti del coalescent lingues.</p>
-                        <p>A un Angleso it va semblar un simplificat Angles, quam un skeptic Cambridge amico dit me que Occidental es.</p>
+                        <h2 class="featurette-heading">What we know <span class="muted">| how we do it</span></h2>
+                        <p>At SIMPLE inc. our approach is to be Agile in our methodology, create a S.O.L.I.D object-oriented foundation based on proven architectural patterns and best practices.</p>                        
+                        <h4>Innovation == simplicity = success;</h4>
                     </div>
                     <!-- /.featurette -->
                     <hr class="featurette-divider">
@@ -424,9 +423,9 @@
                     <div class="technologyalign"> <img class="technology-thumb img-circle" src="img/Technology/Css3.jpg" alt=""> </div>
                     <h3>CSS</h3>
                     <div class="job-position">Style Sheet</div>
-                </div>
+                </div>                
                 <!-- ./span2 -->
-            </div>
+            </div>            
             <!-- /.row -->
         </div>
         <!-- /.container -->
