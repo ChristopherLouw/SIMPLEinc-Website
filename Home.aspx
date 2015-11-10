@@ -226,7 +226,7 @@
                 <div class="span3">
                     <div class="align"> <i class="icon-desktop sev_icon"></i> </div>
                     <h2>Custom</h2>
-                    <p>Custom integration delivers the bridge between the standard predefined guidelines of effective business management and company specific requirements. Implement out of the box business processes to achieve total business efficiency and continuity.</p>                    
+                    <p>Custom integration delivers the bridge between the standard predefined guidelines of business management and effective company specific requirements. Implement out of the box business processes to achieve total business efficiency and continuity.</p>                    
                 </div>
                 <!-- /.span3 -->
                 <div class="span3">
@@ -237,8 +237,8 @@
                 <!-- /.span3 -->
                 <div class="span3">
                     <div class="align"> <i class="icon-basket sev_icon"></i> </div>
-                    <h2>Ecommerce</h2>
-                    <p>With fasteners as our main line we pride ourselves on our extensive range of mild steel, high tensile, stainless steel and brass. Items such as bolts, nuts, washers, cap screws, threaded rods, cup squares to name but a few are all stock items.</p>                   
+                    <h2>Web & Desktop</h2>
+                    <p>Be it Web or Desktop applications the evolution continues and the necessity is imperiative. </p>                   
                 </div>
                 <!-- /.span3 -->
                 <div class="span3">
