@@ -441,7 +441,7 @@
                     <div class="featurette">
                         <h2 class="featurette-heading">Want to know more? <span class="muted">| a little about us</span></h2>
                         <p>We at SIMPLE inc. believe that the definitive of success is to provide a SIMPLE working solution for your unique requirements. Our expertise in the development of software together with our business analytics will enable complete business transformation.</p>
-                        <p>We have close to ten years in multi-platform application development, specifically in manufacturing and retail environments. We endeavour to help you improve processes and procedures by applying best practices which will ensure all software developed is innovative and easily maintainable.</p>
+                        <p>We have close to ten years experiance in multi-platform application development, specifically in manufacturing and retail environments. We endeavour to help you improve processes and procedures by applying best practices which will ensure all software developed is innovative and easily maintainable.</p>
                         <p>Our business solutions allow for growth, profitability and business continuity.</p>
                         <p>believe in the power of SIMPLE.</p>
                     </div>
